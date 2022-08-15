@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF: -1, TIGO SPORTS
+http://ui3.gt-app.com/protegiidos/8_394.ts
+#EXTINF: -1, La Liga
+http://ui3.gt-app.com/protegiidos/1_513.ts
+#EXTINF: -1, BEIN XTRA Ñ
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+#EXTINF: -1, BEIN XTRA Inglés
+https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
+#EXTINF: -1, ESPN 2
+http://190.92.95.37:8000/play/a0sf/index.m3u8
+#EXTINF: -1, CLARO SPORTS
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
+#EXTINF: -1, DIRECTV
+http://rs2.ht7nng15.online/1YAOKQOPCRIT09X4BMYY/MNN2YVX7FAA1OL7/L6FHYNBFR95YVVI/qts/59_.m3u8
